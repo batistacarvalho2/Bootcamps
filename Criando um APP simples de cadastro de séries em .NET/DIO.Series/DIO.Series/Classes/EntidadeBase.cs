@@ -4,7 +4,10 @@ using System.Text;
 
 namespace DIO.Series.Classes
 {
-    class EntidadeBase
+    public abstract class EntidadeBase
     {
+        public int Id { get; protected set; }
     }
+
+
 }

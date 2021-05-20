@@ -1,0 +1,4 @@
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
