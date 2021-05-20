@@ -2,3 +2,12 @@ D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de
 D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
 D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
 D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Github\Cursos bootcamp C#.net\Bootcamps\Criando um APP simples de cadastro de séries em .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
