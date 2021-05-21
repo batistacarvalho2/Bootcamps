@@ -40,13 +40,13 @@ namespace DIO.Series
                         InserirSerie();
                         break;
                     case "3":
-                        //	AtualizarSerie();
+                       	AtualizarSerie();
                         break;
                     case "4":
-                        //	ExcluirSerie();
+                       	ExcluirSerie();
                         break;
                     case "5":
-                        //	VisualizarSerie();
+                       	VisualizarSerie();
                         break;
                     case "C":
                         Console.Clear();
@@ -85,13 +85,11 @@ namespace DIO.Series
             static void InserirSerie()
             {
                 Console.WriteLine("Inserir nova série");
-
-                // https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getvalues?view=netcore-3.1
-                // https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getname?view=netcore-3.1
                 foreach (int i in Enum.GetValues(typeof(Genero)))
                 {
                     Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
                 }
+
                 Console.Write("Digite o gênero entre as opções acima: ");
                 int entradaGenero = int.Parse(Console.ReadLine());
 
@@ -135,13 +133,11 @@ namespace DIO.Series
             {
                 Console.Write("Digite o id da série: ");
                 int indiceSerie = int.Parse(Console.ReadLine());
-
-                // https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getvalues?view=netcore-3.1
-                // https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getname?view=netcore-3.1
                 foreach (int i in Enum.GetValues(typeof(Genero)))
                 {
                     Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
                 }
+
                 Console.Write("Digite o gênero entre as opções acima: ");
                 int entradaGenero = int.Parse(Console.ReadLine());
 
@@ -162,9 +158,6 @@ namespace DIO.Series
 
                 repositorio.Atualiza(indiceSerie, atualizaSerie);
             }
-
-
-
 
         }
     }
