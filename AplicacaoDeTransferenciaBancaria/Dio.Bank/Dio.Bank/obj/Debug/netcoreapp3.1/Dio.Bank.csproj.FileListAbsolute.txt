@@ -1,0 +1,14 @@
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.AssemblyReference.cache
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+D:\Github\Cursos bootcamp C#.net\Bootcamps\AplicacaoDeTransferenciaBancaria\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache
